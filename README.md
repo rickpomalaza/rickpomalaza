@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... open-source repos & fun projects
 - 📫 How to reach me ... email: rickpomalaza@gmail.com
 - 😄 Pronouns: ... he/him
-- ⚡ Fun fact: ... I'm a big fan of science fiction and fantasy, also I'm a DM for a tabletop rpg!
+- ⚡ Fun fact: ... I'm a big fan of science fiction and fantasy, also I'm a DM for a tabletop rpg
 
 <!---
 rickpomalaza/rickpomalaza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
